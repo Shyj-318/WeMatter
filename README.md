@@ -111,6 +111,6 @@ This project is open for community use. All original reporting and content is ©
 
 ## 💛 Mission Statement
 
-> *"North Louisiana deserves better information. We are not against growth. We want to see this region succeed. But real success requires transparency — and transparency requires people willing to ask hard questions. We live here. We are invested in this community."*
+> *"North Louisiana deserves better information. We are not against growth. We want to see this region succeed. But real success requires transparency — and transparency requires people willing to ask hard questions. We live here. We are invested in this community."
 
-**Accountability. Community. Truth.**
+Accountability. Community. Truth.
